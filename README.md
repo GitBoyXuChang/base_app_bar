@@ -1,6 +1,5 @@
 # base_app_bar
-
-A new Flutter application.
+扑的菜单栏项目
 
 ## Getting Started
 
